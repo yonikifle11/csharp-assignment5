@@ -1,0 +1,7 @@
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.csproj.AssemblyReference.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.Form1.resources
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.csproj.GenerateResource.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.AssemblyInfoInputs.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.AssemblyInfo.cs
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Release\net6.0-windows\updateform.csproj.CoreCompileInputs.cache

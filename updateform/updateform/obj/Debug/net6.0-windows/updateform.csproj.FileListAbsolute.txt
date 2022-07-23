@@ -1,0 +1,17 @@
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.csproj.AssemblyReference.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.Form1.resources
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.csproj.GenerateResource.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.AssemblyInfoInputs.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.AssemblyInfo.cs
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.csproj.CoreCompileInputs.cache
+C:\Users\MIMI\source\repos\updateform\updateform\bin\Debug\net6.0-windows\updateform.exe
+C:\Users\MIMI\source\repos\updateform\updateform\bin\Debug\net6.0-windows\updateform.deps.json
+C:\Users\MIMI\source\repos\updateform\updateform\bin\Debug\net6.0-windows\updateform.runtimeconfig.json
+C:\Users\MIMI\source\repos\updateform\updateform\bin\Debug\net6.0-windows\updateform.dll
+C:\Users\MIMI\source\repos\updateform\updateform\bin\Debug\net6.0-windows\updateform.pdb
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.dll
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\refint\updateform.dll
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.pdb
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\updateform.genruntimeconfig.cache
+C:\Users\MIMI\source\repos\updateform\updateform\obj\Debug\net6.0-windows\ref\updateform.dll

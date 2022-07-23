@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "updateform", "updateform\updateform.csproj", "{B79E52F4-1917-4486-B74B-19B891E9766F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B79E52F4-1917-4486-B74B-19B891E9766F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B79E52F4-1917-4486-B74B-19B891E9766F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B79E52F4-1917-4486-B74B-19B891E9766F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B79E52F4-1917-4486-B74B-19B891E9766F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {741DC7D9-DEE9-46CD-8A2A-F6A542C2CF79}
+	EndGlobalSection
+EndGlobal
